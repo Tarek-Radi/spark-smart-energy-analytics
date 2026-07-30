@@ -256,8 +256,8 @@ Additional execution commands will be added as each pipeline stage is implemente
 
 The project is currently in the initial setup phase.
 
-- [ ] Create repository structure
-- [ ] Add project dependencies
+- [Done] Create repository structure
+- [Done] Add project Requirments
 - [ ] Generate synthetic energy data
 - [ ] Build Spark ingestion workflow
 - [ ] Add RDD learning examples
